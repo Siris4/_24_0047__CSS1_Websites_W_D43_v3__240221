@@ -1,0 +1,35 @@
+
+/* id class source alt: */
+/* <img id="red" class="color-title" src="./assets/images/red.png" alt="red box" */
+/* Select the image element: */
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px; 
+    width: 200px;
+}
+
+
+#red {
+    color: red;
+}
+
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
